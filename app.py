@@ -1,2 +1,2 @@
-import steramlit as st
+import streamlit as st
 st.write("Hello World")
